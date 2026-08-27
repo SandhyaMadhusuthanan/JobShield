@@ -19,3 +19,11 @@ width = "100%"
   <b>Helping job seekers identify recruitment risks before they
   pay money, share sensitive information, or trust an unknown recruiter.</b>
 </p>
+
+<p align="center">
+
+[🚀 Live Demo](YOUR-DEMO-LINK) •
+[📖 Documentation](#documentation) •
+[🐛 Report Issue](../../issues)
+
+</p>
